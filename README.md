@@ -1,1 +1,1 @@
-# Encryption-Algorithms-LABS
+# Information-theory-LABS
